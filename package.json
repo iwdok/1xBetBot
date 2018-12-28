@@ -1,0 +1,15 @@
+{
+  "name": "1xbetbot",
+  "version": "1.0.0",
+  "description": "1xBetBotChecker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iwdok",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.1",
+    "node-vk-bot": "^1.2.1"
+  }
+}
